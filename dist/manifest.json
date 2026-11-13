@@ -1,0 +1,10 @@
+{
+  "name": "Red Lion MenuSync AI — Display Player & Backoffice",
+  "short_name": "RedLion MenuSync",
+  "description": "Sistema de Menús Digitales para Restaurantes con Sincronización Realtime <100ms y Kiosk Offline-First 35 días",
+  "start_url": "./player",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#09090b",
+  "theme_color": "#dc2626"
+}
