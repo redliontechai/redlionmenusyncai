@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables (no subir credenciales)
+.env
+.env.local
+.env.production
+
+# Supabase config
+supabase.txt
+
+# Paquetes de despliegue
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+
+# Backup and tools
+Backups/
+tools/
+redlion/crm/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
